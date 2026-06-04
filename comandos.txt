@@ -1,0 +1,9 @@
+git init - Inicializa un nuevo repositorio Git.
+
+git clone - Clona un repositorio remoto a la computadora local.
+
+git add - Agrega archivos al área de preparación para el próximo commit.
+
+git commit - Guarda los cambios en el historial del repositorio.
+
+git push - Envía los commits locales al repositorio remoto en GitHub.
