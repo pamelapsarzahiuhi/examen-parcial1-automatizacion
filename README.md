@@ -1,4 +1,4 @@
-## examen-parcial1-automatizacion
+# examen-parcial1-automatizacion
 Pamela judit Esparza Cruz 
 03-06-2026
 Git es un sistema de control de versiones distribuido que permite
